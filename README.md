@@ -1,4 +1,4 @@
-## **Bloggie**
+## **To Do App**
 This Project is Developed to Understand the Concepts of React Native and its implementation using EXPO.
 
 ## **Introduction**
